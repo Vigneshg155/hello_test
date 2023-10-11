@@ -1,0 +1,6 @@
+com/example/demo/dao/BankDao.class
+com/example/demo/service/BankService.class
+com/example/demo/controller/BankController.class
+com/example/demo/entity/Bank.class
+com/example/demo/repository/BankRepository.class
+com/example/demo/BankApplication.class
